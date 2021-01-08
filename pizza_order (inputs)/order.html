@@ -1,0 +1,95 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PizzaMatic - Order Your Pizza</title>
+</head>
+
+<body>
+
+  <main>
+    <header>
+      <h1>Reach the Taste!</h1>
+    </header>
+    <form action="./order.html" method="GET">
+      
+      <section>
+        <label for="PizzaName">Name Your Pizza!</label><br>
+        <input id="PizzaName" type="text" name="">
+      </section><br>
+
+      <section>
+        <label for="pizzabase">How do you like your Pizza base?</label><br>
+        
+        <select name="" id="pizzabase">
+          <option value="">Standard Base</option>            
+          <option value="">Thin Chrust</option>            
+          <option value="">Stuffed</option>            
+        </select>
+      </section><br>
+
+      <section>
+        <label for="sauce_list">Choose your sauce!</label><br>
+
+        <input type="text" list="saucelist" name="sauces" id="sauce_list">
+
+          <datalist id="saucelist">
+            <option value="Standard"></option>
+            <option value="BBQ"></option>
+            <option value="Hot BBQ"></option>
+          </datalist>
+      </section><br>
+      
+      <section>
+        <label for="pizza_size">Almost Done!now what will the size be?</label><br><br>
+        <span>S........M.......L.......XL</span><br>
+        <input type="range" name="" id="pizza_size" min="1" max="4" step="1">
+      </section><br>
+
+      <section>
+
+        <label for="">Finnally select your toppings!</label><br>
+
+        <input type="checkbox"  id="Mushroom" value="Mushroom" name="">
+        <label for="Mushroom" name="toppings">Mushroom</label><br>
+
+        <input type="checkbox" name="" id="peppers">
+        <label for="peppers" name="toppings">Peppers</label><br>
+
+        <input type="checkbox" name="" id="olive">
+        <label for="olive" name="toppings">Olive</label><br>
+
+        <input type="checkbox" name="" id="corn">
+        <label for="corn" name="toppings">Corn</label>
+        
+      </section><br>
+
+      <section>
+        <label for="">Do you want extra cheese:</label><br>
+
+        <input type="radio" id="extra_cheese" value="yes" name="extra_cheese">
+        <label for="extra_cheese">Yes</label>
+
+        <input type="radio" id="no_extra_cheese" value="no" name="extra_cheese">
+        <label for="no_extra_cheese">No</label>
+      </section><br>
+
+      <section>
+      <span>You Super Delicious Pizza is ready to jump into the oven!</span>
+      <button type="submit">Submit</button>
+    </section>
+    <section>
+      <label for="mo_of_pizza"></label>
+      <input type="number" name="no_of_pizza" id="no_of_pizza" min="1" max="4">
+    </section>
+    
+    </form>
+  </main>
+    <hr><hr>
+  <footer>
+    &copy;2020 PizzaMatic
+  </footer>
+</body>
+
+</html>

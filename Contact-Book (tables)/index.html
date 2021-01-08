@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Contact Book</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato: 100,300,400,700|Luckiest+Guy|Oxygen:300,400"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <ul class="navigation">
+    <li><strong><em>Contact Book</em></strong></li>
+    <li class="active">My Contact List</li>
+    <li>My Profile</li>
+    <li>Log Out</li>
+  </ul>
+
+  <div class="search">Search the table</div>
+
+  <!-- Create your table below -->
+  <table>
+    <!--
+    <thead></thead>
+    <tfoot></tfoot>
+    <tbody></tbody>
+-->
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">NAME</th>
+        <th scope="col">EMAIL</th>
+        <th scope="col">MOBILE PHONE</th>
+        <th scope="col">ADDRESS</th>
+      </tr>
+    </thead>
+    <tr>
+      <td scope="row">01</td>
+      <td>Mrs. Sullivan</td>
+      <td>(066) 87399820</td>
+      <td>sullivan@example.com</td>
+      <td>west st. 1882AS London</td>
+    </tr>
+
+    <tr>
+      <td scope="row">02</td>
+      <td>Mrs. Cohen</td>
+      <td>(066)90092882</td>
+      <td>cohen@example.com</td>
+      <td>South st. 0112MJ Brooklyn</td>
+    </tr>
+
+    <tr>
+      <td scope="row">03</td>
+      <td>Mr. Marcus</td>
+      <td>(066)89000982</td>
+      <td>Marcus@example.com</td>
+      <td rowspan="2"> </td>
+    </tr>
+
+    <tr>
+      <td scope="row">04</td>
+      <td>Mr. Hansenberg</td>
+      <td>(066)90299288</td>
+      <td>hans@example.com</td>
+      
+    </tr>
+
+    <tr>
+      <td scope="row" rowspan="2">5</td>
+      <td rowspan="2">Mrs. Seth</td>
+      <td>(066)786629755</td>
+      <td>broek@example.com</td>
+      <td>Links st. 9033 DH De Haag</td>
+    </tr>
+
+    <tr>
+
+      <td>(066)987399820</td>
+      <td>Seth@example.com</td>
+      <td>North st. 1882AS London</td>
+    </tr>
+    <tfoot>
+      <tr>
+        <td scope="row" colspan="3"></td>
+        <th>Total Contacts:</th>
+        <td>5</td>
+      </tr>
+    </tfoot>
+  </table>
+
+</body>
+
+</html>
