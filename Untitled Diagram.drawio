@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T23:54:39.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="9S-AsxP9nwqUl67IZqm4" version="14.3.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-20T09:47:30.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="BTdB9OmPOBIsv2d6v_Kz" version="14.3.1" type="github" pages="5">
   <diagram id="YM5_balRlLsAySiBHn6m" name="Page-1">
     <mxGraphModel dx="1186" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -460,7 +460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-ODSPZW0X0TB8SAfwc3E" name="Page-5">
-    <mxGraphModel dx="4780" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-0" />
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-1" parent="bLMXLw1mkQ4U77lT0LIt-0" />
@@ -495,7 +495,7 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bLMXLw1mkQ4U77lT0LIt-1" source="bLMXLw1mkQ4U77lT0LIt-9" target="bLMXLw1mkQ4U77lT0LIt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-9" value="You have entered the&lt;b&gt; Maze of Eternity!&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;&quot;If you wanna leave this world behind,&lt;br&gt;You better use the power of your mind!&quot;&lt;br&gt;&lt;br&gt;&lt;/i&gt;You walked down in the way for a while.&amp;nbsp;&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-9" value="You have entered the&lt;b&gt; Maze of Eternity!&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;&quot;If you wanna leave this world behind,&lt;br&gt;You better use the power of your mind!&quot;&lt;br&gt;&lt;br&gt;&lt;/i&gt;You walked down in the corridor for a while.&amp;nbsp;&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="390" y="220" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bLMXLw1mkQ4U77lT0LIt-1" source="bLMXLw1mkQ4U77lT0LIt-10" target="bLMXLw1mkQ4U77lT0LIt-12">
@@ -548,11 +548,11 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-23" value="&lt;i&gt;&quot;The entrance stands right behind, &lt;br&gt;Go back and scream if you like&quot;&lt;br&gt;&lt;/i&gt;&lt;br&gt;You go deeper into the maze now. You walk a little and take follow the corridor that turns left." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="370" y="751" width="260" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-25" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="400" y="650" width="40" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-25" value="Yes (L)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="395" y="650" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-26" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="495" y="720" width="30" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-26" value="No (R)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="500" y="720" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-27" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="405" y="540" width="30" height="20" as="geometry" />
@@ -610,11 +610,11 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-43" value="entry = &#39;L&#39; ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="450" y="1085" width="100" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-44" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="400" y="1115" width="40" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-44" value="Yes(L)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="405" y="1115" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-45" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="570" y="1115" width="30" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-45" value="No (S)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="560" y="1115" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-46" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="505" y="1070" width="40" height="20" as="geometry" />
@@ -668,16 +668,16 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-240" value="entry = &#39;R&#39; ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="-170" y="1095" width="100" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-241" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="-216" y="1115" width="30" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-241" value="No (S)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="-226" y="1115" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-242" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="-115" y="1190" width="40" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-242" value="Yes (R)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="-125" y="1190" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-243" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-243" value="Yes&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="-115" y="1080" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-247" value="&lt;i&gt;&quot;I smell the fear in your breath, &lt;/i&gt;&lt;br&gt;&lt;i&gt;Is it because of your coming DEATH?&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;There was a giant spider and it bites you and you are DEAD!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FFCCCC;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-247" value="&lt;i&gt;&quot;I smell the fear in your breath, &lt;/i&gt;&lt;br&gt;&lt;i&gt;Is it because of your coming DEATH?&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;There was a giant spider and it bit you. You are DEAD!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FFCCCC;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="-460" y="1109" width="220" height="71" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-248" value="" style="group" vertex="1" connectable="0" parent="bLMXLw1mkQ4U77lT0LIt-1">
@@ -1259,11 +1259,11 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-280" value="entry = &#39;S&#39; ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="-170" y="1545" width="100" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-281" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="-216" y="1565" width="30" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-281" value="No (L)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="-226" y="1565" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-282" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="-115" y="1655" width="40" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-282" value="Yes (S)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="-120" y="1655" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-283" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="-115" y="1530" width="40" height="20" as="geometry" />
@@ -1277,7 +1277,7 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#336600;" edge="1" parent="bLMXLw1mkQ4U77lT0LIt-1" source="bLMXLw1mkQ4U77lT0LIt-288" target="bLMXLw1mkQ4U77lT0LIt-289">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-288" value="&lt;i&gt;&quot;You race towards the end among these walls,&lt;/i&gt;&lt;br&gt;&lt;i&gt;With the screams of lost souls as the rain falls&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;That was close! Anyway, you are still alive and walking. You stepped in to a hole that splits in to two hallways;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-288" value="&lt;i&gt;&quot;You race towards the end among these walls,&lt;/i&gt;&lt;br&gt;&lt;i&gt;With the screams of lost souls as the rain falls&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;That was close! Anyway, you are still alive and walking. You stepped into a hole that splits in to two hallways;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="120" y="1101.5" width="280" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-289" value="Choose your way;&amp;nbsp;&lt;br&gt;(R) Right or (L) Left" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
@@ -1339,8 +1339,8 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-311" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#336600;" edge="1" parent="bLMXLw1mkQ4U77lT0LIt-1" source="bLMXLw1mkQ4U77lT0LIt-312" target="bLMXLw1mkQ4U77lT0LIt-313">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-312" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-style: italic ; color: rgb(32 , 33 , 36) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;We have just started, the fun begins&lt;/span&gt;&lt;br style=&quot;color: rgb(32 , 33 , 36) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;But on this battlefield, no one wins&quot;&lt;br&gt;&lt;/i&gt;&lt;br&gt;You have made a correct decision it seems. You start to feel the breeze on your skin. There are two options stands in front of you to move on:&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="740.25" y="1090" width="231.5" height="100" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-312" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-style: italic ; color: rgb(32 , 33 , 36) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;We have just started, the fun begins&lt;/span&gt;&lt;br style=&quot;color: rgb(32 , 33 , 36) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;But on this battlefield, no one wins&quot;&lt;br&gt;&lt;/i&gt;&lt;br&gt;You have made a correct decision it seems. You start to feel the breeze on your skin. You must be close to see the daylight! There are two options stands in front of you to move on:&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="740.25" y="1070" width="231.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-313" value="The dilemma of your life;&amp;nbsp;&lt;br&gt;(S) Straight or (L) Left" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="796" y="1330" width="120" height="60" as="geometry" />
@@ -1394,14 +1394,14 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-324" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="861" y="1530" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-325" value="&lt;i&gt;&quot;Candle lights are shimmering on the walls,&lt;br&gt;&lt;/i&gt;&lt;i&gt;If you listen, you can hear your death calls&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Your heart couldn&#39;t stand with the action and the fear. You had an heart attack and you are DEAD!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FFCCCC;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-325" value="&lt;i&gt;&quot;Candle lights are shimmering on the walls,&lt;br&gt;&lt;/i&gt;&lt;i&gt;If you listen, you can hear, your death calls&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Your heart couldn&#39;t stand with the action and the fear. You had an heart attack and you are DEAD!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FFCCCC;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="717" y="1699.5" width="279" height="110.5" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-327" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="850" y="1652.5" width="40" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-327" value="Yes (S)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="856" y="1652.5" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-328" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="915" y="1572.5" width="30" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-328" value="No (L)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="905" y="1572.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-347" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;fillColor=#336600;" edge="1" parent="bLMXLw1mkQ4U77lT0LIt-1" source="bLMXLw1mkQ4U77lT0LIt-330" target="bLMXLw1mkQ4U77lT0LIt-331">
           <mxGeometry relative="1" as="geometry" />
@@ -1460,11 +1460,11 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-341" value="entry = &#39;R&#39; ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="1221" y="1925" width="100" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-342" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="1175" y="1945" width="30" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-342" value="No (L)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="1165" y="1945" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-343" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="1276" y="2035" width="40" height="20" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-343" value="Yes (R)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="1266" y="2035" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-344" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="1276" y="1910" width="40" height="20" as="geometry" />
@@ -1475,8 +1475,11 @@
         <mxCell id="bLMXLw1mkQ4U77lT0LIt-346" value="&lt;i&gt;&quot;So when you&#39;re waiting for the next attack,&lt;br&gt;&lt;/i&gt;&lt;i&gt;You&#39;d better stand, there is no turning back&quot;&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;You are attacked by a poisonous snake and could not fight back. You are DEAD!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FFCCCC;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
           <mxGeometry x="1146" y="2070" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="bLMXLw1mkQ4U77lT0LIt-349" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;And as we race towards the human wall&lt;/span&gt;&lt;br style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;The screams of pain as my comrades fall&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
-          <mxGeometry x="70" y="870" width="280" height="50" as="geometry" />
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-350" value="Yes(R)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="300" y="1572.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bLMXLw1mkQ4U77lT0LIt-351" value="No (L)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bLMXLw1mkQ4U77lT0LIt-1">
+          <mxGeometry x="255" y="1652.5" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
